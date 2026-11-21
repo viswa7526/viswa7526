@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/viswa7526/viswa7526/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 
 </div>
 
